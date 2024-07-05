@@ -12,7 +12,7 @@
 - Collaborate with cross-functional teams to ensure business and user requirements are met.
 - Identify and address performance bottlenecks.
 - Write clean, maintainable, and scalable code.
-<img src="https://github-readme-stats.vercel.app/api?username=denismnjima&show_icons=true&theme=transparent"  width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=denismnjima&show_icons=true&theme=transparent"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denismnjima&theme=transparent&layout=donut" />
 
 ## Lets connect
