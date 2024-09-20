@@ -15,7 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=denismnjima&show_icons=true&theme=transparent"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denismnjima&theme=transparent&layout=donut" />
 
-## Lets connect
+## Lets connect 
  Let's talk on my socials
 <img align="left" src="https://iili.io/dKSYrOB.th.png" width="30px"/>
 <img align="left" src="https://iili.io/dKSlIcb.th.png" width="30px"/>
