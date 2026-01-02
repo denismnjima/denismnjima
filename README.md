@@ -1,26 +1,60 @@
-## Hi , i'M Njima 👋
-🌟 Passionate about creating seamless user experiences and elegant web applications using cutting-edge technologies.
-## 🚀 Skills:
+# Denis Njima
 
-- Python: Proficient in Python for backend development.
-- JavaScript: Experienced in building dynamic, interactive front-end interfaces.
-- React.js: Specialized in creating reusable components and optimizing performance.
-## 🔧 Responsibilities:
+Full-stack Software Engineer specializing in backend systems, modern web applications, and cross-platform mobile development.
 
-- Develop reusable UI components for various applications.
-- Translate design wireframes and mockups into responsive, interactive web and mobile interfaces.
-- Collaborate with cross-functional teams to ensure business and user requirements are met.
-- Identify and address performance bottlenecks.
-- Write clean, maintainable, and scalable code.
-<img src="https://github-readme-stats.vercel.app/api?username=denismnjima&show_icons=true&theme=transparent"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denismnjima&theme=transparent&layout=donut" />
+I focus on building reliable, scalable, and maintainable software with clear architecture and strong performance characteristics.
 
-## Lets connect 
- Let's talk on my socials
-<img align="left" src="https://iili.io/dKSYrOB.th.png" width="30px"/>
-<img align="left" src="https://iili.io/dKSlIcb.th.png" width="30px"/>
-<img align="left" src="https://iili.io/dKS1VZN.th.png" width="30px"/>
+---
 
+## Technical Skills
 
+### Backend
+- **Python** – API development, background tasks, data processing  
+- **FastAPI** – REST APIs, authentication, async systems, OpenAPI documentation  
+- **Databases** – PostgreSQL, MySQL, SQLite  
+- **ORMs & Tools** – SQLAlchemy, Alembic  
+
+### Frontend (Web)
+- **JavaScript / TypeScript**
+- **React.js** – component-driven architecture, state management, performance optimization  
+- **Next.js** – SSR, routing, SEO-friendly applications  
+- **HTML / CSS** – responsive, accessible interfaces  
+
+### Mobile
+- **React Native** – cross-platform Android & iOS applications  
+- API integration, navigation, and performance optimization  
+
+### Dev & Tooling
+- Git & GitHub  
+- RESTful API design  
+- Docker (basic usage)  
+- Linux-based development environments  
+
+---
+
+## What I Do
+
+- Design and build scalable backend APIs using FastAPI  
+- Develop clean, maintainable frontend interfaces for web and mobile  
+- Translate product requirements into robust technical solutions  
+- Optimize application performance and reliability  
+- Write clear, testable, and well-documented code  
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=denismnjima&show_icons=true&theme=transparent" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denismnjima&layout=compact&theme=transparent" />
+</p>
+
+---
+
+## Connect
+- LinkedIn
 
 
